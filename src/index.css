@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global defaults */
+body {
+  @apply bg-surface text-gray-800 antialiased;
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+h1, h2, h3, nav {
+  font-family: "Raleway", system-ui, sans-serif;
+}
+
+
+/* Headings */
+h1 {
+  @apply text-3xl font-semibold mb-4;
+}
+
+h2 {
+  @apply text-2xl font-semibold mb-3;
+}
+
+/* Links */
+a {
+  @apply text-accent hover:opacity-80;
+}
