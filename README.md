@@ -1,16 +1,39 @@
-# React + Vite
+# Transcend Technology
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Transcend Technology is an early-stage business website that I am actively developing and maintaining.  
+The project serves as both a real-world business presence and a hands-on environment for building and refining frontend development skills.
 
-Currently, two official plugins are available:
+This repository represents a living codebase rather than a finished product.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Goals
+- Build a clean, professional public-facing website
+- Practice scalable HTML/CSS structure
+- Apply responsive layout and accessibility principles
+- Maintain and iterate on a real production site
 
-## React Compiler
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (vanilla)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## My Role
+I am the sole developer responsible for:
+- Page structure and semantic markup
+- Styling and layout decisions
+- Responsive behavior across devices
+- Content updates and ongoing improvements
 
-## Expanding the ESLint configuration
+## Current Focus
+- Improving layout consistency
+- Refining responsive design patterns
+- Cleaning and organizing stylesheets
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Planned Improvements
+- Refactor CSS for better maintainability
+- Add accessibility enhancements
+- Optimize performance and SEO
+- Introduce reusable layout components
+
+## Live Site
+https://transcendtechnology.org
+
