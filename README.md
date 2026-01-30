@@ -37,3 +37,8 @@ I am the sole developer responsible for:
 ## Live Site
 https://transcendtechnology.org
 
+## Development Status
+This is an early-stage project and is being actively iterated on.  
+The codebase will evolve as new requirements and features are identified.
+
+
