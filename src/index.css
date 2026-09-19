@@ -1,0 +1,62 @@
+/* =========================
+   TRANSCEND BRAND FONTS
+   ========================= */
+
+/* Melodrama — Display / Hero */
+@font-face {
+  font-family: "Melodrama";
+  src: url("./assets/fonts/Melodrama_Complete/Fonts/WEB/fonts/Melodrama-Variable.woff2")
+    format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Zodiak — Section Headings */
+@font-face {
+  font-family: "Zodiak";
+  src: url("./assets/fonts/Zodiak_Complete/Fonts/WEB/fonts/Zodiak-Variable.woff2")
+    format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Quicksand — Body / Navigation / UI */
+@font-face {
+  font-family: "Quicksand";
+  src: url("./assets/fonts/Quicksand_Complete/Fonts/WEB/fonts/Quicksand-Variable.woff2")
+    format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global defaults */
+body {
+  @apply bg-surface text-gray-800 antialiased;
+  font-family: "Quicksand", system-ui, sans-serif;
+}
+
+h1, h2, h3, nav {
+  font-family: "Raleway", system-ui, sans-serif;
+}
+
+
+/* Headings */
+h1 {
+  font-family: "Melodrama", serif;
+}
+
+h2,
+h3 {
+  font-family: "Zodiak", serif;
+}
+
+nav {
+  font-family: "Quicksand", system-ui, sans-serif;
+}
