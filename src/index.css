@@ -5,7 +5,7 @@
 /* Melodrama — Display / Hero */
 @font-face {
   font-family: "Melodrama";
-  src: url("./assets/fonts/Melodrama_Complete/Fonts/WEB/fonts/Melodrama-Variable.woff2")
+  src: url("./assets/Fonts/Melodrama_Complete/Fonts/WEB/fonts/Melodrama-Variable.woff2")
     format("woff2");
   font-weight: 300 700;
   font-style: normal;
@@ -15,7 +15,7 @@
 /* Zodiak — Section Headings */
 @font-face {
   font-family: "Zodiak";
-  src: url("./assets/fonts/Zodiak_Complete/Fonts/WEB/fonts/Zodiak-Variable.woff2")
+  src: url("./assets/Fonts/Zodiak_Complete/Fonts/WEB/fonts/Zodiak-Variable.woff2")
     format("woff2");
   font-weight: 100 900;
   font-style: normal;
@@ -25,7 +25,7 @@
 /* Quicksand — Body / Navigation / UI */
 @font-face {
   font-family: "Quicksand";
-  src: url("./assets/fonts/Quicksand_Complete/Fonts/WEB/fonts/Quicksand-Variable.woff2")
+  src: url("./assets/Fonts/Quicksand_Complete/Fonts/WEB/fonts/Quicksand-Variable.woff2")
     format("woff2");
   font-weight: 300 700;
   font-style: normal;
